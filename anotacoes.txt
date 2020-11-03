@@ -1,0 +1,12 @@
+= Get TMDB API Key
+= https://www.themoviedb.org/
+= Request API Key: https://www.themoviedb.org/settings/api/request
+
+# Get Started
+npm start
+
+# Dependencies
+! firebase-tools -g required !
+npm i axios
+
+# Database (Firebase)
