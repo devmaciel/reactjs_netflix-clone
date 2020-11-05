@@ -1,4 +1,4 @@
-#Amazon Clone
+# Netflix Clone (frontend)
 
 ## Começando
 
