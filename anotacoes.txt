@@ -8,5 +8,15 @@ npm start
 # Dependencies
 ! firebase-tools -g required !
 npm i axios
+npm i react-youtube
+npm i movie-trailer
 
 # Database (Firebase)
+
+# Deploy
+firebase login needed
+firebase init hosting
+(build)
+single page app
+npm run build
+firebase deploy
