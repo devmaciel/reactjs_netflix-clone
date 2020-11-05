@@ -24,7 +24,7 @@ https://netflix-clone-29a16.web.app
 -   HTML5
 -   CSS3
 -   Javascript
--   Firebase/Firestore/Cloud Functions
+-   Firebase/Firestore
 
 #### Ferramentas Utilizadas
 
